@@ -9,8 +9,7 @@
     <img src="https://skillicons.dev/icons?i=git,nodejs,docker,npm,mongodb,graphql&perline=3" />
   </a>
 </p>
-
-<sub><sup>[Helper: skill-icons](https://github.com/tandpfun/skill-icons)</sup></sub>
+<sub><sup>[skill-icons](https://github.com/tandpfun/skill-icons)</sup></sub>
 
 ## My Overview
 
