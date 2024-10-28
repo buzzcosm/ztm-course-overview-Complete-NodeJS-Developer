@@ -28,6 +28,12 @@
 - [GitHub - libuv](https://github.com/libuv/libuv)
 - [Introduction to libuv - uvbook](https://nikhilm.github.io/uvbook/)
 
+## ZTM stuff
+
+- [Coding Challenges](https://zerotomastery.io/community/coding-challenges/)
+- [Monthly Industry Blogs](https://zerotomastery.io/blog/)
+- [Free Developer Resources](https://zerotomastery.io/resources/)
+
 ## Interesting stuff
 
 - [Johnny-Five - JavaScript Robotics & IoT Platform](https://johnny-five.io/)
