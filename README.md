@@ -7,6 +7,7 @@
 ![16 of 432](https://progress-bar.xyz/4/?title=progress)
 
 <sub><sup><a href="https://github.com/tandpfun/skill-icons">skill-icons 🌟</a></sup></sub>
+<sub><sup><a href="https://github.com/guibranco/progressbar">progressbar 🌟</a></sup></sub>
 
 <p align="left">
   <a href="https://skillicons.dev">
