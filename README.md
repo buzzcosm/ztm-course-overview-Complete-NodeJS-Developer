@@ -27,6 +27,7 @@
 - [libuv](https://libuv.org/)
 - [GitHub - libuv](https://github.com/libuv/libuv)
 - [Introduction to libuv - uvbook](https://nikhilm.github.io/uvbook/)
+- [Netlify](https://www.netlify.com/)
 
 ## ZTM stuff
 
