@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,nodejs,docker,npm,mongodb,graphql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,nodejs,docker,npm,mongodb,graphql&perline=4" />
   </a>
 </p>
 
