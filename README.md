@@ -18,3 +18,11 @@
 ## My Overview
 
 🇼🇮🇵 🎓
+
+## Useful references
+
+- [Node.js documentation](https://nodejs.org/docs/latest/api/)
+- [GitHub - Node.js](https://github.com/nodejs/node)
+- [W3School - Node.js Tutorial](https://www.w3schools.com/nodejs/)
+- [libuv](https://libuv.org/)
+- [GitHub - libuv](https://github.com/libuv/libuv)
