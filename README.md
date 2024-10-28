@@ -27,3 +27,7 @@
 - [libuv](https://libuv.org/)
 - [GitHub - libuv](https://github.com/libuv/libuv)
 - [Introduction to libuv - uvbook](https://nikhilm.github.io/uvbook/)
+
+## Interesting stuff
+
+- [Johnny-Five - JavaScript Robotics & IoT Platform](https://johnny-five.io/)
