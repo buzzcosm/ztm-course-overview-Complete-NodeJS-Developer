@@ -26,3 +26,4 @@
 - [W3School - Node.js Tutorial](https://www.w3schools.com/nodejs/)
 - [libuv](https://libuv.org/)
 - [GitHub - libuv](https://github.com/libuv/libuv)
+- [Introduction to libuv - uvbook](https://nikhilm.github.io/uvbook/)
