@@ -43,6 +43,7 @@
 - [Coding Challenges](https://zerotomastery.io/community/coding-challenges/)
 - [Monthly Industry Blogs](https://zerotomastery.io/blog/)
 - [Free Developer Resources](https://zerotomastery.io/resources/)
+- [JavaScript patterns - Pyramid of doom](https://survivejs.com/blog/pyramid-of-doom/)
 
 ## Interesting stuff
 
