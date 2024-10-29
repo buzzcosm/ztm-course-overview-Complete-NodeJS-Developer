@@ -17,6 +17,11 @@
 
 ## My Overview
 
+## Repository Name Prefix Rule
+
+- Repository Name *Prefix*: `ztm-course-exercises-nodejs`
+- Repository Name Example: ztm-course-exercises-nodejs-ping-pong-game
+
 🇼🇮🇵 🎓
 
 ## Useful references
