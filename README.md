@@ -26,6 +26,7 @@
 
 1. Events - Observer pattern (Repository: [ztm-course-exercises-nodejs-events](https://github.com/buzzcosm/ztm-course-exercises-nodejs-events))
 1. Promises (Repository: [ztm-course-exercises-nodejs-promise](https://github.com/buzzcosm/ztm-course-exercises-nodejs-promise))
+1. Async Functions (Repository: [ztm-course-exercises-nodejs-async-await](https://github.com/buzzcosm/ztm-course-exercises-nodejs-async-await))
 
 🇼🇮🇵 🎓
 
