@@ -4,7 +4,7 @@
 
 ### Learning stuff
 
-![28 of 432](https://progress-bar.xyz/7/?title=progress)
+![35 of 432](https://progress-bar.xyz/8/?title=progress)
 
 <sub><sup><a href="https://github.com/tandpfun/skill-icons">skill-icons 🌟</a></sup></sub>
 <sub><sup><a href="https://github.com/guibranco/progressbar">progressbar 🌟</a></sup></sub>
