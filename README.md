@@ -17,10 +17,14 @@
 
 ## My Overview
 
-## Repository Name Prefix Rule
+### Repository Name Prefix Rule
 
 - Repository Name *Prefix*: `ztm-course-exercises-nodejs`
 - Repository Name Example: ztm-course-exercises-nodejs-ping-pong-game
+
+### Exercises
+
+1. Events - Observer pattern (Repository: [ztm-course-exercises-nodejs-events](https://github.com/buzzcosm/ztm-course-exercises-nodejs-events))
 
 🇼🇮🇵 🎓
 
