@@ -37,6 +37,7 @@
 - [GitHub - libuv](https://github.com/libuv/libuv)
 - [Introduction to libuv - uvbook](https://nikhilm.github.io/uvbook/)
 - [Netlify](https://www.netlify.com/)
+- [Mozilla - Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 ## ZTM stuff
 
