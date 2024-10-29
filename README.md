@@ -43,9 +43,9 @@
 - [Coding Challenges](https://zerotomastery.io/community/coding-challenges/)
 - [Monthly Industry Blogs](https://zerotomastery.io/blog/)
 - [Free Developer Resources](https://zerotomastery.io/resources/)
-- [JavaScript patterns - Pyramid of doom](https://survivejs.com/blog/pyramid-of-doom/)
 
 ## Interesting stuff
 
 - [Johnny-Five - JavaScript Robotics & IoT Platform](https://johnny-five.io/)
 - [DEV - Understanding setTimeout, setImmediate, process.nextTick, and setInterval in Node.js](https://dev.to/rajusaha/understanding-settimeout-setimmediate-processnexttick-and-setinterval-in-nodejs-1ngc) 🏆
+- [JavaScript patterns - Pyramid of doom](https://survivejs.com/blog/pyramid-of-doom/)
