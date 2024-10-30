@@ -55,6 +55,7 @@
 - [DEV - Callback Queue and Job (Micro Task) Queue](https://dev.to/rajatoberoi/understanding-the-event-loop-callback-queue-and-call-stack-in-javascript-1k7c)
 - [freeCodeCamp - Scaling Node.js Applications](https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/) 🖖
 - [Mozilla - (ES2020) Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled)
+- [Mozilla - Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 
 ## ZTM stuff
 
