@@ -49,6 +49,7 @@
 - [Mozilla - Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Medium - Understanding JavaScript’s Call Stack and Job Queue](https://medium.com/@vdsnini/understanding-javascripts-call-stack-and-job-queue-72c9ad433b94#:~:text=Task%20Queue%20(Callback%20Queue)%3A,by%20promises%20and%20other%20microtasks.)
 - [DEV - Callback Queue and Job (Micro Task) Queue](https://dev.to/rajatoberoi/understanding-the-event-loop-callback-queue-and-call-stack-in-javascript-1k7c)
+- [freeCodeCamp - Scaling Node.js Applications](https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/)
 
 ## ZTM stuff
 
