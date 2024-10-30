@@ -24,6 +24,8 @@
 - Repository Name *Prefix*: `ztm-course-exercises-nodejs`
 - Repository Name Example: ztm-course-exercises-nodejs-ecma
 
+---
+
 1. Events - Observer pattern (Repository: [ztm-course-exercises-nodejs-events](https://github.com/buzzcosm/ztm-course-exercises-nodejs-events))
 1. Promises (Repository: [ztm-course-exercises-nodejs-promise](https://github.com/buzzcosm/ztm-course-exercises-nodejs-promise))
 1. Async Functions (Repository: [ztm-course-exercises-nodejs-async-await](https://github.com/buzzcosm/ztm-course-exercises-nodejs-async-await))
@@ -34,6 +36,8 @@
 
 - Repository Name *Prefix*: `ztm-course-projects-nodejs`
 - Repository Name Example: ztm-course-projects-nodejs-online-game
+
+---
 
 1. 🇼🇮🇵 🎓
 
