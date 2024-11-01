@@ -30,6 +30,7 @@
 1. Promises (Repository: [ztm-course-exercises-nodejs-promise](https://github.com/buzzcosm/ztm-course-exercises-nodejs-promise))
 1. Async Functions (Repository: [ztm-course-exercises-nodejs-async-await](https://github.com/buzzcosm/ztm-course-exercises-nodejs-async-await))
 1. Own Modules Example (Repository: [ztm-course-exercises-nodejs-modules-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-modules-example))
+1. Package Example (Repository: [ztm-course-exercises-nodejs-package-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-package-example))
 
 ### Portfolio Projects
 
