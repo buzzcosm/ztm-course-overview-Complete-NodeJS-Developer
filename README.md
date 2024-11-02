@@ -41,6 +41,7 @@
 
 ---
 
+1. Planets Project (NASA - Exoplanets) (Repository: [ztm-course-projects-nodejs-planets-project](https://github.com/buzzcosm/ztm-course-projects-nodejs-planets-project))
 1. 🇼🇮🇵 🎓
 
 ## Useful references
