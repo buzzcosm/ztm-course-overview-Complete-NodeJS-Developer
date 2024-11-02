@@ -2,7 +2,7 @@
 
 `ZTM` Course on Udemy ([Complete NodeJS Developer (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery)).
 
-![78 of 432](https://progress-bar.xyz/18/?title=progress)
+![86 of 432](https://progress-bar.xyz/20/?title=progress)
 
 ### Learning stuff
 
@@ -42,7 +42,7 @@
 ---
 
 1. Planets Project (NASA - Exoplanets) (Repository: [ztm-course-projects-nodejs-planets-project](https://github.com/buzzcosm/ztm-course-projects-nodejs-planets-project))
-1. 🇼🇮🇵 🎓
+1. 🇼🇮🇵 🎓HTTP Server (Repository: [ztm-course-projects-nodejs-http-server](https://github.com/buzzcosm/ztm-course-projects-nodejs-http-server))
 
 ## Useful references
 
