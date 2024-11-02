@@ -43,7 +43,7 @@
 
 1. Planets Project (NASA - Exoplanets) (Repository: [ztm-course-projects-nodejs-planets-project](https://github.com/buzzcosm/ztm-course-projects-nodejs-planets-project))
 1. HTTP Server (Repository: [ztm-course-projects-nodejs-http-server](https://github.com/buzzcosm/ztm-course-projects-nodejs-http-server))
-1. 🇼🇮🇵 🎓
+1. 🇼🇮🇵 🎓Express Project (Repository: [ztm-course-projects-nodejs-express-project](https://github.com/buzzcosm/ztm-course-projects-nodejs-express-project))
 
 ## Useful references
 
