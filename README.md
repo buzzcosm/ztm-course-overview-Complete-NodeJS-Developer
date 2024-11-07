@@ -2,7 +2,7 @@
 
 `ZTM` Course on Udemy ([Complete NodeJS Developer (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery)).
 
-![155 of 432](https://progress-bar.xyz/36/?title=progress)
+![162 of 432](https://progress-bar.xyz/38/?title=progress)
 
 ### Learning stuff
 
@@ -31,6 +31,7 @@
 1. Async Functions (Repository: [ztm-course-exercises-nodejs-async-await](https://github.com/buzzcosm/ztm-course-exercises-nodejs-async-await))
 1. Own Modules Example (Repository: [ztm-course-exercises-nodejs-modules-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-modules-example))
 1. Package Example (Repository: [ztm-course-exercises-nodejs-package-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-package-example))
+1. Threads Example (Repository: [ztm-course-exercises-nodejs-threads-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-threads-example))
 
 ### Portfolio Projects
 
