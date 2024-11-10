@@ -70,6 +70,8 @@
 - [Coding Challenges](https://zerotomastery.io/community/coding-challenges/)
 - [Monthly Industry Blogs](https://zerotomastery.io/blog/)
 - [Free Developer Resources](https://zerotomastery.io/resources/)
+- DB
+  - [SQL Playground](https://www.db-fiddle.com/)
 
 ## Interesting stuff
 
