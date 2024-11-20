@@ -80,3 +80,4 @@
 - [JavaScript patterns - Pyramid of doom](https://survivejs.com/blog/pyramid-of-doom/)
 - [SWAPI - The Star Wars API](https://swapi.dev/) 💫
 - [Liquid Web - What is a GitHub gist?](https://www.liquidweb.com/blog/what-is-a-github-gist/)
+- [Mozilla - **AbortController** interface](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
