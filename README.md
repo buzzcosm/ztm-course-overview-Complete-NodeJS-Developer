@@ -2,7 +2,7 @@
 
 `ZTM` Course on Udemy ([Complete NodeJS Developer (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery)).
 
-![229 of 432](https://progress-bar.xyz/53/?title=progress)
+![236 of 432](https://progress-bar.xyz/55/?title=progress)
 
 ### Learning stuff
 
