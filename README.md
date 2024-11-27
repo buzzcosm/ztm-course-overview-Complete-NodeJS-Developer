@@ -32,6 +32,7 @@
 1. Own Modules Example (Repository: [ztm-course-exercises-nodejs-modules-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-modules-example))
 1. Package Example (Repository: [ztm-course-exercises-nodejs-package-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-package-example))
 1. Threads Example (Repository: [ztm-course-exercises-nodejs-threads-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-threads-example))
+1. Security Example (Repository: [ztm-course-exercises-nodejs-security-example](https://github.com/buzzcosm/ztm-course-exercises-nodejs-security-example)) 🛡️
 
 ### Portfolio Projects
 
